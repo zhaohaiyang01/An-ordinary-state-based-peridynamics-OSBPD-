@@ -1,5 +1,4 @@
 # An-ordinary-state-based-peridynamics-OSBPD-
-An-ordinary-state-based-peridynamics-OSBPD-
 This program is about An-ordinary-state-based-peridynamics(OSBPD).
 
 Many codes is rewritten from Fortran codes("Peridynamic Theory and Its Applications") and Matlab codes (written by @lazyzq “MatlabPeridynamicsCode”).
